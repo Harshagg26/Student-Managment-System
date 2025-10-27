@@ -1,0 +1,14 @@
+com\example\edubase\utils\ThemeManager$Theme.class
+com\example\edubase\controllers\MainController.class
+com\example\edubase\models\Subject.class
+com\example\edubase\services\UserService.class
+com\example\edubase\services\DatabaseService.class
+com\example\edubase\models\Student.class
+com\example\edubase\App.class
+com\example\edubase\controllers\LoginController.class
+com\example\edubase\models\User.class
+com\example\edubase\services\StudentService.class
+com\example\edubase\utils\AlertUtils.class
+com\example\edubase\utils\Validator.class
+com\example\edubase\utils\ThemeManager.class
+com\example\edubase\utils\ToastUtil.class
